@@ -2,11 +2,53 @@
 <menu>
 	<header>
 		<listname>ScummVM</listname>
-		<listversion>2.1 (rev1)</listversion>
+		<listversion>2.2 (rev1)</listversion>
 		<lastlistupdate>12/10/2019</lastlistupdate>
 		<creator>TonesMalone</creator>
 		<repository>CuratedGameLists</repository>
 	</header>
+	<game name="dragons">
+        <description>Blazing Dragons (CD PlayStation)</description>
+        <manufacturer>Crystal Dynamics</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+	<game name="griffon">
+        <description>The Griffon Legend (CD Windows)</description>
+        <manufacturer>Syn9</manufacturer>
+        <year>2005</year>
+        <genre>Role-Playing</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+	<game name="os">
+        <description>Operation Stealth (Floppy DOS)</description>
+        <manufacturer>Interplay, U.S. Gold</manufacturer>
+        <year>1990</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+	<game name="ultima4">
+        <description>Ultima IV - Quest of the Avatar (Floppy DOS)</description>
+        <manufacturer>Electronic Arts</manufacturer>
+        <year>1985</year>
+        <genre>Role-Playing</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+	<game name="ultima6">
+        <description>Ultima VI - The False Prophet (Floppy DOS)</description>
+        <manufacturer>Electronic Arts</manufacturer>
+        <year>1990</year>
+        <genre>Role-Playing</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+	<game name="ultima8">
+        <description>Ultima VIII - Pagan (Floppy DOS)</description>
+        <manufacturer>Electronic Arts</manufacturer>
+        <year>1994</year>
+        <genre>Role-Playing</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
     <game name="toltecs">
         <description>3 Skulls of the Toltecs (CD DOS)</description>
         <manufacturer>Revistonic</manufacturer>
@@ -1453,6 +1495,13 @@
         <manufacturer>Sierra On-Line</manufacturer>
         <year>1993</year>
         <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+	<game name="pqswat">
+        <description>Police Quest: SWAT (CD Windows)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1995</year>
+        <genre>Simulation</genre>
         <rating>Other - NR (Not Rated)</rating>
     </game>
     <game name="activity-win">
