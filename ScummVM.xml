@@ -1,0 +1,1976 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu>
+	<header>
+		<listname>ScummVM</listname>
+		<listversion>2.1 (rev1)</listversion>
+		<lastlistupdate>12/10/2019</lastlistupdate>
+		<creator>TonesMalone</creator>
+		<repository>CuratedGameLists</repository>
+	</header>
+    <game name="toltecs">
+        <description>3 Skulls of the Toltecs (CD DOS)</description>
+        <manufacturer>Revistonic</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="t7g">
+        <description>7th Guest, The (CD DOS)</description>
+        <manufacturer>Trilobyte</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="ajworld">
+        <description>A.J.&apos;s World of Discovery (DOS, English)</description>
+        <developer>Coktel Vision</developer>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1992</year>
+        <genre>Mini-Games</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="amazon">
+        <description>Amazon: Guardians of Eden (DOS)</description>
+        <manufacturer>Access Software</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="astrochicken">
+        <description>Astro Chicken (Floppy DOS)</description>
+        <developer>Sierra Entertainment</developer>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1988</year>
+        <genre>Action</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="baseball">
+        <description>Backyard Baseball (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1992</year>
+        <genre>Sports/Baseball</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="baseball2001">
+        <description>Backyard Baseball 2001 (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>2000</year>
+        <genre>Sports/Baseball</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="baseball2003">
+        <description>Backyard Baseball 2003 (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>2002</year>
+        <genre>Sports/Baseball</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="basketball">
+        <description>Backyard Basketball (CD Windows)</description>
+        <developer>Humongous Entertainment</developer>
+        <manufacturer>Atari</manufacturer>
+        <year>2001</year>
+        <genre>Sports/Basketball</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="football">
+        <description>Backyard Football (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Sports/Football</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="football2002">
+        <description>Backyard Football 2002 (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>2001</year>
+        <genre>Sports/Football</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="soccer">
+        <description>Backyard Soccer (CD Windows)</description>
+        <developer>Humongous Entertainment</developer>
+        <manufacturer>Atari</manufacturer>
+        <year>1998</year>
+        <genre>Sports/Soccer</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="bargon">
+        <description>Bargon Attack (Floppy DOS)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="brstorm">
+        <description>Bear Stormin&apos; (DOS)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1993</year>
+        <genre>Action</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="gk2">
+        <description>Beast Within, The: A Gabriel Knight Mystery (CD DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1995</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="bbvs-win">
+        <description>Beavis and Butt-head in Virtual Stupidity (CD Windows)</description>
+        <manufacturer>Viacom New Media</manufacturer>
+        <year>1995</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="sky">
+        <description>Beneath a Steel Sky (CD VGA)</description>
+        <manufacturer>Revolution Software</manufacturer>
+        <year>1994</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="bra">
+        <description>Big Red Adventure, The (DOS, Multilanguage)</description>
+        <manufacturer>Dynabyte</manufacturer>
+        <year>1995</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="thinker1-win">
+        <description>Big Thinkers First Grade (Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1997</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="thinkerk-us">
+        <description>Big Thinkers Kindergarten (Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1997</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="woodruff-gb">
+        <description>Bizarre Adventures of Woodruff and the Schnibble of Azimuth, The (CD DOS, Multilanguage)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1994</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="bc">
+        <description>Black Cauldron, The (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1986</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="blueforce-cd">
+        <description>Blue Force (CD DOS)</description>
+        <manufacturer>Tsunami Media</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="Blues123time">
+        <description>Blue&apos;s 123 Time Activities (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="BluesABCTime">
+        <description>Blue&apos;s ABC Time Activities (Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1998</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="arttime">
+        <description>Blue&apos;s Art Time Activities (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>2000</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="BluesBirthday">
+        <description>Blue&apos;s Birthday Adventure: Red (Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="BluesBirthday-1">
+        <description>Blue&apos;s Birthday Adventure: Yellow (Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="readtime">
+        <description>Blue&apos;s Reading Time Activities (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>2000</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="BluesTreasureHunt">
+        <description>Blue&apos;s Treasure Hunt (CD Windows) (Disc 1)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="BluesTreasureHunt-win">
+        <description>Blue&apos;s Treasure Hunt (CD Windows) (Disc 2)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="sword25">
+        <description>Broken Sword 2.5: Return of the Templars, The (Windows, Multilanguage)</description>
+        <manufacturer>mindFactory</manufacturer>
+        <year>2008</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="sword1">
+        <description>Broken Sword I: Shadows of the Templar, The (CD Windows)</description>
+        <manufacturer>Revolution Software</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="sword2">
+        <description>Broken Sword II: Smoking Mirror, The (CD Windows)</description>
+        <manufacturer>Revolution Software</manufacturer>
+        <year>1997</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="tucker">
+        <description>Bud Tucker in Double Trouble (CD DOS)</description>
+        <manufacturer>Merit Studios</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="castlebrain">
+        <description>Castle of Dr. Brain (CD DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1991</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="chivalry-win">
+        <description>Chivalry is Not Dead (Windows)</description>
+        <manufacturer>Deirdra Kiai</manufacturer>
+        <year>2007</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="iceman">
+        <description>Codename: ICEMAN (Floppy DOS)</description>
+        <manufacturer>Sierra</manufacturer>
+        <year>1989</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="camelot">
+        <description>Conquests of Camelot: King Arthur, Quest for the Grail (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1989</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="longbow">
+        <description>Conquests of the Longbow: The Legend of Robin Hood (Floppy EGA DOS)</description>
+        <manufacturer>Sierra</manufacturer>
+        <year>1991</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="cnick-kq">
+        <description>Crazy Nick&apos;s Software Picks: King Graham&apos;s Board Game Challenge (DOS)</description>
+        <manufacturer>Sierra</manufacturer>
+        <year>1992</year>
+        <genre>Compilation</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="cnick-lsl">
+        <description>Crazy Nick&apos;s Software Picks: Leisure Suit Larrys Casino (DOS)</description>
+        <manufacturer>Sierra</manufacturer>
+        <year>1992</year>
+        <genre>Compilation</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="cnick-laurabow">
+        <description>Crazy Nick&apos;s Software Picks: Parlor Games with Laura Bow (DOS)</description>
+        <manufacturer>Sierra</manufacturer>
+        <year>1992</year>
+        <genre>Compilation</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="cnick-longbow">
+        <description>Crazy Nick&apos;s Software Picks: Robin Hoods Game Of Skill And Chance (DOS)</description>
+        <manufacturer>Sierra</manufacturer>
+        <year>1992</year>
+        <genre>Compilation</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="cnick-sq">
+        <description>Crazy Nick&apos;s Software Picks: Roger Wilcos Spaced Out Game Pack (DOS)</description>
+        <manufacturer>Sierra</manufacturer>
+        <year>1992</year>
+        <genre>Compilation</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="cruise">
+        <description>Cruise for a Corpse (VGA DOS)</description>
+        <manufacturer>Delphine Software International</manufacturer>
+        <year>1991</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="comi">
+        <description>Curse of Monkey Island, The (CD Windows)</description>
+        <manufacturer>LucasArts</manufacturer>
+        <year>1997</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="darby-win">
+        <description>Darby the Dragon (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="tentacle">
+        <description>Day of the Tentacle (CD DOS)</description>
+        <manufacturer>LucasArts</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="dig">
+        <description>Dig, The (CD DOS)</description>
+        <manufacturer>LucasArts</manufacturer>
+        <year>1995</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="dw-cd">
+        <description>Discworld 1 (CD DOS v2)</description>
+        <manufacturer>Teeny Weeny Games/Perfect 10 Productions (CD DOS v2)</manufacturer>
+        <year>1995</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="dw2-gb">
+        <description>Discworld 2: Missing presumed...!? (CD DOS)</description>
+        <manufacturer>Perfect Entertainment</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="ddp">
+        <description>Donald Duck&apos;s Playground (Floppy DOS)</description>
+        <developer>Sierra Entertainment</developer>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1984</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="draci">
+        <description>Dragon History (Floppy DOS)</description>
+        <manufacturer>NoSense</manufacturer>
+        <year>1995</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="drascula">
+        <description>Drascula: The Vampire Strikes Back (CD DOS, Multilanguage)</description>
+        <manufacturer>Alcachofa Soft</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="dreamweb-cd">
+        <description>Dreamweb (CD DOS)</description>
+        <manufacturer>Empire Interactive</manufacturer>
+        <year>1994</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="ecoquest-cd">
+        <description>EcoQuest 1: The Search for Cetus (CD DOS)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1991</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="ecoquest2">
+        <description>EcoQuest 2: Lost Secret of the Rainforest (Floppy DOS)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1993</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="elvira1">
+        <description>Elvira 1: Mistress of the Dark (Floppy DOS)</description>
+        <manufacturer>Horrorsoft</manufacturer>
+        <year>1990</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="elvira2">
+        <description>Elvira 2: The Jaws of Cerberus (Floppy DOS)</description>
+        <manufacturer>Horrorsoft</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="eob">
+        <description>Eye of the Beholder (CD DOS)</description>
+        <manufacturer>Westwood Studios</manufacturer>
+        <year>1990</year>
+        <genre>Role-Playing</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="eob2">
+        <description>Eye of the Beholder II: The Legend of Darkmoon (CD DOS)</description>
+        <manufacturer>Westwood Studios</manufacturer>
+        <year>1991</year>
+        <genre>Role-Playing</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="fascination">
+        <description>Fascination (CD DOS, Multilanguage)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1991</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="fbear-win">
+        <description>Fatty Bear&apos;s Birthday Surprise (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1992</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="fbpack">
+        <description>Fatty Bear&apos;s Fun Pack (CD DOS)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1994</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="feeble-win">
+        <description>Feeble Files, The (4CD Windows)</description>
+        <manufacturer>Adventure Soft</manufacturer>
+        <year>1997</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="queen-fallback">
+        <description>Flight of the Amazon Queen (CD DOS)</description>
+        <manufacturer>Interactive Binary Illusions</manufacturer>
+        <year>1995</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="maze-us">
+        <description>Freddi Fish &amp; Luther&apos;s Maze Madness (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Action</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="water-win-us">
+        <description>Freddi Fish &amp; Luther&apos;s Water Worries (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Action</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="freddi-win">
+        <description>Freddi Fish 1: Case of the Missing Kelp Seeds, The (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1994</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="freddi2-win">
+        <description>Freddi Fish 2: Case of the Haunted Schoolhouse, The (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1996</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="freddi3-win">
+        <description>Freddi Fish 3: Case of the Stolen Conch Shell, The (CD DOS)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1998</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="freddi4-win">
+        <description>Freddi Fish 4: Case of the Hogfish Rustlers of Briny Gulch, The (CD DOS)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="freddicove">
+        <description>Freddi Fish 5: Case of the Creature of Coral Cove, The (CD DOS)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>2001</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="freddypharkas-cd">
+        <description>Freddy Pharkas: Frontier Pharmacist (CD DOS)</description>
+		<developer>Al Lowe, Josh Mandel</developer>
+        <manufacturer>Sierra</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="fullpipe-de">
+        <description>Full Pipe (CD Windows)</description>
+        <manufacturer>Adventure Soft</manufacturer>
+        <year>2010</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="ft">
+        <description>Full Throttle (CD DOS)</description>
+        <manufacturer>LucasArts</manufacturer>
+        <year>1995</year>
+        <genre>Driving</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="fw-cd-us">
+        <description>Future Wars (CD DOS)</description>
+        <manufacturer>Delphine Software</manufacturer>
+        <year>1986</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="gk1-cd">
+        <description>Gabriel Knight: Sins of the Fathers (CD DOS)</description>
+        <manufacturer>Sierra</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="geisha">
+        <description>Geisha (Floppy DOS)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1990</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="gnap-win">
+        <description>UFOs (CD Windows)</description>
+        <manufacturer>Artech Digital Entertainment, Ltd.</manufacturer>
+        <year>1997</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="gob1cd-us">
+        <description>Gobliiins 1 (CD DOS)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1991</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="gob2cd-us">
+        <description>Gobliins 2 (CD DOS)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="gob3cd">
+        <description>Goblins Quest 3 (CD DOS)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="gregory-win">
+        <description>Gregory and the Hot Air Balloon (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1994</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="qfg1">
+        <description>Hero&apos;s Quest: So You Want To Be A Hero (Floppy DOS)</description>
+        <cloneof>qfg1vga</cloneof>
+        <crc></crc>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1989</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="hires0-apple2">
+        <description>Hi-Res Adventure 0: Mission Asteroid (Apple II)</description>
+
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1980</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="hires1-apple2">
+        <description>Hi-Res Adventure 1: Mystery House (Apple II)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1980</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="hires2-apple2">
+        <description>Hi-Res Adventure 2: Wizard and the Princess (Apple II)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1980</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="hires3-apple2" index="" image="">
+        <description>Hi-Res Adventure 3 - Cranston's Manor (Apple II)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <genre>Adventure</genre>
+        <year>1981</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="hires4-apple2" index="" image="">
+        <description>Hi-Res Adventure 4 - Ulysses and the Golden Fleece (Apple II)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <genre>Adventure</genre>
+        <year>1981</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="hires5-apple2">
+        <description>Hi-Res Adventure 5: Time Zone (Apple II)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1982</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="hires6-apple2">
+        <description>Hi-Res Adventure 6: The Dark Crystal (Apple II)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1983</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="hoyle4">
+        <description>Hoyle Classic Card Games (Floppy DOS)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1997</year>
+        <genre>Casino</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="hoyle1">
+        <description>Hoyle Official Book Of Games: Volume 1 (Floppy DOS)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1989</year>
+        <genre>Casino</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="hoyle2">
+        <description>Hoyle Official Book Of Games: Volume 2 (Floppy DOS)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1990</year>
+        <genre>Casino</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="hoyle3">
+        <description>Hoyle Official Book Of Games: Volume 3 (Floppy DOS)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1992</year>
+        <genre>Casino</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="hoyle5bridge" index="" image="">
+        <description>Hoyle Bridge (CD Windows)</description>
+        <manufacturer>Sierra</manufacturer>
+        <genre>Casino</genre>
+        <year>1996</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="hoyle5children" index="" image="">
+        <description>Hoyle Children's Collection (CD Windows)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <genre>Casino</genre>
+        <year>1995</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="hoyle5" index="" image="">
+        <description>Hoyle Classic Games (CD Windows)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <genre>Casino</genre>
+        <year>1995</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="hoyle5solitaire" index="" image="">
+        <description>Hoyle Solitaire (CD Windows)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <genre>Casino</genre>
+        <year>1996</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="hugo2">
+        <description>Hugo 2: Whodunit (Floppy DOS)</description>
+        <manufacturer>Gray Design Associates</manufacturer>
+        <year>1991</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="hugo3">
+        <description>Hugo 3: Jungle of Doom (Floppy DOS)</description>
+        <manufacturer>Gray Design Associates</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="hugo1">
+        <description>Hugo&apos;s House of Horrors (Floppy DOS)</description>
+        <manufacturer>Gray Design Associates</manufacturer>
+        <year>1990</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="ihnm">
+        <description>I Have No Mouth and I Must Scream (CD DOS)</description>
+        <manufacturer>The Dreamers Guild</manufacturer>
+        <year>1995</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="atlantis">
+        <description>Indiana Jones and the Fate of Atlantis (CD DOS)</description>
+        <manufacturer>LucasArts</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="indy3-ega">
+        <description>Indiana Jones and the Last Crusade (Floppy DOS EGA)</description>
+        <manufacturer>Lucasfilm Games</manufacturer>
+        <year>1989</year>
+        <genre>Action</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="ite-cd">
+        <description>Inherit the Earth: Quest for the Orb (CD Windows-Linux-DOS)</description>
+        <manufacturer>The Dreamers Guild</manufacturer>
+        <year>1994</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="islandbrain">
+        <description>Island of Dr. Brain, The (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1992</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="jones-cd">
+        <description>Jones In The Fast Lane (CD DOS)</description>
+        <manufacturer>Sierra</manufacturer>
+        <year>1990</year>
+        <genre>Simulation</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="pegasus-mac">
+        <description>Journeyman Project, The: Pegasus Prime (CD Mac)</description>
+        <manufacturer>Presto Studios</manufacturer>
+        <year>1997</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="kq1sci">
+        <description>King&apos;s Quest 1: Quest for the Crown (Floppy DOS VGA Remake)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1990</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="kq1">
+        <description>King&apos;s Quest 1: Quest for the Crown (Floppy DOS)</description>
+        <cloneof>kq1sci</cloneof>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1983</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="kq2">
+        <description>King&apos;s Quest 2: Romancing the Throne (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1985</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="kq3">
+        <description>King&apos;s Quest 3: To Heir is Human (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1986</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="kq4sci">
+        <description>King&apos;s Quest 4: Perils of Rosella, The (Floppy DOS, SCI)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1988</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="kq5-cd">
+        <description>King&apos;s Quest 5: Absence Makes the Heart go Yonder (CD DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1990</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="kq6-cd-win">
+        <description>King&apos;s Quest 6: Heir Today, Gone Tomorrow (CD DOS, Windows)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="kq7-win">
+        <description>King&apos;s Quest 7: The Princeless Bride (CD DOS)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1994</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="kquestions">
+        <description>King&apos;s Questions (CD DOS)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1994</year>
+        <genre>Quiz</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lab-3">
+        <description>Labyrinth of Time (CD DOS)</description>
+        <manufacturer>Electronic Arts</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lol-cd">
+        <description>Lands of Lore: The Throne of Chaos (CD DOS, Multilanguage)</description>
+        <manufacturer>Westwood Studios</manufacturer>
+        <year>1993</year>
+        <genre>Role-Playing</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="laurabow">
+        <description>Laura Bow 1: Colonel&apos;s Bequest, The (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1989</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="laurabow2-cd">
+        <description>Laura Bow 2: Dagger of Amon-Ra, The (CD DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lgop2">
+        <description>Leather Goddesses of Phobos 2 (Floppy DOS)</description>
+        <manufacturer>Infocom</manufacturer>
+        <year>1986</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="kyra1-cd">
+        <description>Legend of Kyrandia, The (CD DOS)</description>
+        <manufacturer>Westwood Software</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="kyra3">
+        <description>Legend of Kyrandia, The: Book Three - Malcolm&apos;s Revenge (CD DOS)</description>
+        <manufacturer>Westwood Software</manufacturer>
+        <year>1994</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="kyra2-cd">
+        <description>Legend of Kyrandia, The: Book Two - Hand of Fate, The (CD DOS)</description>
+        <manufacturer>Westwood Software</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lsl2">
+        <description>Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1988</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lsl3">
+        <description>Leisure Suit Larry 3: Passionate Patti in Pursuit of the Pulsating Pectorals (Floppy DOS)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1989</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lsl5">
+        <description>Leisure Suit Larry 5: Passionate Patty Does a Little Undercover Work (Floppy EGA DOS)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1991</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lsl6hires">
+        <description>Leisure Suit Larry 6: Shape Up or Slip Out! (CD DOS High Res)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lsl7">
+        <description>Leisure Suit Larry 7: Love for Sail! (CD DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lsl1sci">
+        <description>Leisure Suit Larry in the Land of the Lounge Lizards (Floppy DOS EGA Remake)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1991</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lsl1">
+        <description>Leisure Suit Larry in the Land of the Lounge Lizards (Floppy DOS)</description>
+        <cloneof>lsl1sci</cloneof>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1987</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="airport-win">
+        <description>Let&apos;s Explore the Airport with Buzzy (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1995</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="farm-win">
+        <description>Let&apos;s Explore the Farm with Buzzy (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1996</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="jungle-win">
+        <description>Let&apos;s Explore the Jungle with Buzzy (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1995</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lighthouse">
+        <description>Lighthouse: Dark Being, The (CD Windows)</description>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="tortoise-win">
+        <description>Living Books: Aesop&apos;s Fables - Tortoise And The Hare, The (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1993</year>
+        <genre>Miscellaneous</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="arthur-win">
+        <description>Living Books: Arthur&apos;s Teacher Trouble (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1993</year>
+        <genre>Miscellaneous</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="arthurbday-win">
+        <description>Living Books: Arthur&apos;s Birthday (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1994</year>
+        <genre>Miscellaneous</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="seussabc-win">
+        <description>Living Books: Dr. Seuss ABC (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1995</year>
+        <genre>Miscellaneous</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="greeneggs-win">
+        <description>Living Books: Green Eggs and Ham (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1996</year>
+        <genre>Miscellaneous</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="harryhh-win">
+        <description>Living Books: Harry and the Haunted House (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1994</year>
+        <genre>Miscellaneous</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="grandma-win">
+        <description>Living Books: Just Grandma and Me (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1992</year>
+        <genre>Miscellaneous</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lilmonster-win">
+        <description>Living Books: Little Monster at School (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1994</year>
+        <genre>Miscellaneous</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="ruff-win">
+        <description>Living Books: Ruff&apos;s Bone (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1994</year>
+        <genre>Miscellaneous</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="sheila-win">
+        <description>Living Books: Sheila Rae, The Brave (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1996</year>
+        <genre>Miscellaneous</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="stellaluna-win">
+        <description>Living Books: Stellaluna (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1996</year>
+        <genre>Miscellaneous</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="bearfight-win">
+        <description>Living Books: Berenstain Bears Get in a Fight, The (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1995</year>
+        <genre>Miscellaneous</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="beardark-win">
+        <description>Living Books: Berenstain Bears in the Dark, The (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1996</year>
+        <genre>Miscellaneous</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="newkid-win">
+        <description>Living Books: New Kid on the Block, The (CD Windows)</description>
+        <manufacturer>Broderbund Software</manufacturer>
+        <year>1993</year>
+        <genre>Miscellaneous</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="loom-vga">
+        <description>Loom (CD DOS VGA)</description>
+        <manufacturer>Lucasfilm Games</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="loom-fm">
+        <description>Loom (CD FM Towns)</description>
+        <cloneof>loom-vga</cloneof>
+        <manufacturer>Lucasfilm Games</manufacturer>
+        <year>1991</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="loom-ega">
+        <description>Loom (Floppy DOS EGA)</description>
+        <cloneof>loom-vga</cloneof>
+        <manufacturer>Lucasfilm Games</manufacturer>
+        <year>1990</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="rosetattoo">
+        <description>Lost Files of Sherlock Holmes, The: Case of the Rose Tattoo, The (CD DOS)</description>
+        <manufacturer>Electronic Arts</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="scalpel">
+        <description>Lost Files of Sherlock Holmes, The: Case of the Serrated Scalpel, The (CD DOS)</description>
+        <manufacturer>Electronic Arts</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lit-us">
+        <description>Lost in Time (CD DOS, Multilanguage)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lure">
+        <description>Lure of the Temptress (Floppy DOS)</description>
+        <manufacturer>Revolution Software</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="liam-win">
+        <description>Magic Tales: Liam Finds a Story (CD Windows)</description>
+        <manufacturer>Animation Magic</manufacturer>
+        <year>1996</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="sleepingcub-win">
+        <description>Magic Tales: Sleeping Cub&apos;s Test of Courage (CD Windows)</description>
+        <manufacturer>Animation Magic</manufacturer>
+        <year>1996</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="princess-win">
+        <description>Magic Tales: Princess and the Crab, The (CD Windows)</description>
+        <manufacturer>Animation Magic</manufacturer>
+        <year>1996</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="manhole-cd">
+        <description>Manhole, The: Enhanced (CD Windows)</description>
+        <manufacturer>Cyan Worlds</manufacturer>
+        <year>1988</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="mh1">
+        <description>Manhunter 1: New York (Floppy DOS)</description>
+        <manufacturer>Evryware</manufacturer>
+        <year>1988</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="mh2">
+        <description>Manhunter 2: San Francisco (Floppy DOS)</description>
+        <manufacturer>Evryware</manufacturer>
+        <year>1989</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="maniac-v1">
+        <description>Maniac Mansion (Floppy DOS v1)</description>
+        <cloneof>maniac-v2</cloneof>
+        <manufacturer>Lucasfilm Games</manufacturer>
+        <year>1987</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="maniac-v2">
+        <description>Maniac Mansion (Floppy DOS v2 Enhanced)</description>
+        <manufacturer>Lucasfilm Games</manufacturer>
+        <year>1987</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="mickey">
+        <description>Mickey&apos;s Space Adventure (Floppy DOS)</description>
+
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1986</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="fairytales">
+        <description>Mixed-Up Fairy Tales (Floppy EGA DOS)</description>
+        <manufacturer>Sierra</manufacturer>
+        <year>1991</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="mothergoose256">
+        <description>Mixed-Up Mother Goose (CD DOS, 1991)</description>
+        <manufacturer>Sierra</manufacturer>
+        <year>1991</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="mixedup">
+        <description>Mixed-Up Mother Goose (Floppy DOS, 1987)</description>
+        <cloneof>mothergoose256</cloneof>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1987</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="mothergoose">
+        <description>Mixed-Up Mother Goose (Floppy EGA DOS, 1990)</description>
+        <cloneof>mothergoose256</cloneof>
+        <manufacturer>Sierra</manufacturer>
+        <year>1990</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="mothergoosehires">
+        <description>Mixed-Up Mother Goose Deluxe (CD DOS)</description>
+        <manufacturer>Sierra</manufacturer>
+        <year>1996</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="monkey2">
+        <description>Monkey Island 2: LeChuck&apos;s Revenge (Floppy DOS VGA)</description>
+        <manufacturer>LucasArts</manufacturer>
+        <year>1991</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="mortevielle">
+        <description>Mortville Manor (Floppy DOS)</description>
+        <manufacturer>Lankhor</manufacturer>
+        <year>1988</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="msastrochicken">
+        <description>Ms Astro Chicken (Floppy DOS)</description>
+        <developer>Sierra Entertainment</developer>
+        <manufacturer>Sierra Entertainment</manufacturer>
+        <year>1991</year>
+        <genre>Action</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="myst-win-1">
+        <description>Myst (CD Windows)</description>
+        <developer>Cyan</developer>
+        <manufacturer>Broderbund Software, Inc.</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="myst-win">
+        <description>Myst Masterpiece (DVD Windows)</description>
+        <developer>Cyan</developer>
+        <manufacturer>Broderbund Software, Inc.</manufacturer>
+        <year>2014</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="neverhood-win">
+        <description>Neverhood, The (CD Windows)</description>
+        <manufacturer>The Neverhood, Inc.</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="nippon">
+        <description>Nippon Safes Inc. (Floppy DOS, Multilanguage)</description>
+        <manufacturer>Dynabyte</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="littlered-gb">
+        <description>Once Upon A Time: Little Red Riding Hood (Floppy DOS)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1991</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="pjgames-us">
+        <description>Pajama Sam: Games to Play on Any Day (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>2001</year>
+        <genre>Strategy</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="pajama">
+        <description>Pajama Sam 1: No Need to Hide When It&apos;s Dark Outside (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1996</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="pajama2-win-us">
+        <description>Pajama Sam 2: Thunder and Lightning Aren&apos;t so Frightening (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1998</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="pajama3-win-us">
+        <description>Pajama Sam 3: You Are What You Eat From Your Head to Your Feet (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>2000</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="lost-us">
+        <description>Pajama Sam&apos;s Lost And Found (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Action</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="socks-win">
+        <description>Pajama Sam&apos;s Sock Works (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Action</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="pass">
+        <description>Passport to Adventure (CD DOS)</description>
+        <manufacturer>Lucas Arts</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="pepper">
+        <description>Pepper&apos;s Adventures In Time (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="pn">
+        <description>Personal Nightmare (Floppy DOS)</description>
+        <manufacturer>Horrorsoft</manufacturer>
+        <year>1989</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="phantasmagoria-fallback">
+        <description>Phantasmagoria (CD Windows)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1995</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="phantasmagoria2">
+        <description>Phantasmagoria II: Puzzle of the Flesh, A (CD Windows)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1997</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="playtoons1">
+        <description>Playtoons 1: Uncle Archibald (CD Windows)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1994</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="playtoons2">
+        <description>Playtoons 2: Case of the Counterfeit Collaborator (CD Windows)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1994</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="playtoons3">
+        <description>Playtoons 3: Secret of the Castle (CD Windows)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1994</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="playtoons4">
+        <description>Playtoons 4: Mandarine Prince, The (CD Windows)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1994</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="plumbers-win">
+        <description>Plumbers Don&apos;t Wear Ties! (CD Windows)</description>
+        <manufacturer>Kirin Entertainment/United Pixtures</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="pq1sci">
+        <description>Police Quest 1: In Pursuit of the Death Angel (Floppy DOS VGA Remake)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="pq1">
+        <description>Police Quest 1: In Pursuit of the Death Angel (Floppy DOS)</description>
+        <cloneof>pq1sci</cloneof>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1987</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="pq2">
+        <description>Police Quest 2: The Vengeance (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1988</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="pq3">
+        <description>Police Quest 3: The Kindred (Floppy EGA DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1991</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="pq4-cd">
+        <description>Police Quest IV: Open Season (CD DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="activity-win">
+        <description>Putt-Putt and Fatty Bear&apos;s Activity Pack (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1993</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="balloon">
+        <description>Putt-Putt and Pep&apos;s Balloon-O-Rama (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Action</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="dog-win">
+        <description>Putt-Putt and Pep&apos;s Dog on a Stick (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Action</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="puttrace-us">
+        <description>Putt-Putt Enters the Race (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="puttmoon-win">
+        <description>Putt-Putt Goes to the Moon (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1993</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="puttcircus-us">
+        <description>Putt-Putt Joins the Circus (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>2000</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="puttputt-win">
+        <description>Putt-Putt Joins the Parade (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1993</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="puttzoo-win">
+        <description>Putt-Putt Saves the Zoo (CD Windows)</description>
+
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1995</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="PuttTime-win-us">
+        <description>Putt-Putt Travels Through Time (CD DOS)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1997</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="funpack">
+        <description>Putt-Putt&apos;s Fun Pack (CD DOS)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1993</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="PuttsFunShop-us">
+        <description>Putt-Putt&apos;s One-Stop Fun Shop (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>2000</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="qfg1vga">
+        <description>Quest for Glory 1: So You Want to be a Hero (Floppy DOS VGA Remake)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1989</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="qfg2">
+        <description>Quest for Glory 2: Trial by Fire (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1990</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="qfg3">
+        <description>Quest for Glory 3: Wages of War, The (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="qfg4-cd" index="" image="">
+        <description>Quest for Glory 4 - Shadows of Darkness (CD DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <genre>Adventure</genre>
+        <year>1994</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="rama">
+        <description>RAMA (CD Windows)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="ringworld2-cd">
+        <description>Return to Ringworld (CD DOS)</description>
+        <manufacturer>Tsunami Media</manufacturer>
+        <year>1994</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="rtz-cd">
+        <description>Return to Zork (CD DOS)</description>
+        <manufacturer>Infocom</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="nebular">
+        <description>Rex Nebular and the Cosmic Gender Bender (Floppy DOS)</description>
+        <manufacturer>MicroProse</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="ringworld-cd">
+        <description>Ringworld: Revenge of the Patriarch (CD DOS)</description>
+        <manufacturer>Tsunami</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="riven">
+        <description>Riven: The Sequel to Myst (DVD Windows)</description>
+        <manufacturer>Cyan</manufacturer>
+        <year>1997</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="rodney">
+        <description>Rodney&apos;s Funscreen (Windows)</description>
+        <manufacturer>Activision</manufacturer>
+        <year>1992</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="samnmax">
+        <description>Sam &amp; Max Hit the Road (CD DOS)</description>
+        <manufacturer>LucasArts</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="monkey">
+        <description>Secret of Monkey Island, The (CD DOS VGA)</description>
+        <manufacturer>Lucasfilm Games</manufacturer>
+        <year>1990</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="sfinx">
+        <description>Sfinx (DOS, English)</description>
+        <manufacturer>L.K. Avalon</manufacturer>
+        <year>1997</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="shivers">
+        <description>Shivers (CD Windows)</description>
+        <manufacturer>Adventure Soft</manufacturer>
+        <year>1995</year>
+        <genre>Action</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="simon1-cd-win">
+        <description>Simon the Sorcerer 1 (CD Windows)</description>
+        <manufacturer>Adventure Soft</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="simon2-cd-win">
+        <description>Simon the Sorcerer 2 (CD Windows)</description>
+        <manufacturer>Adventure Soft</manufacturer>
+        <year>1995</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="puzzle-win">
+        <description>Simon the Sorcerer&apos;s Puzzle Pack (CD Windows)</description>
+        <manufacturer>Adventure Soft</manufacturer>
+        <year>1998</year>
+        <genre>Action</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="slater">
+        <description>Slater &amp; Charlie Go Camping (CD Windows)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1993</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="soltys">
+        <description>Soltys (DOS)</description>
+        <manufacturer>L.K. Avalon</manufacturer>
+        <year>1995</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="sq1-coco3">
+        <description>Space Quest 1: Sarien Encounter, The (Floppy DOS EGA Remake)</description>
+
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1991</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="sq1">
+        <description>Space Quest 1: Sarien Encounter, The (Floppy DOS)</description>
+        <cloneof>sq1sci</cloneof>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1986</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="sq2">
+        <description>Space Quest 2: Vohaul&apos;s Revenge (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1987</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="sq3">
+        <description>Space Quest 3: Pirates of Pestulon, The (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1989</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="sq4-cd">
+        <description>Space Quest 4: Roger Wilco and the Time Rippers (CD DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1991</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="sq5">
+        <description>Space Quest 5: Next Mutation, The (Floppy DOS)</description>
+        <manufacturer>Dynamix</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="sq6">
+        <description>Space Quest 6: Spinal Frontier, The (CD DOS)</description>
+        <manufacturer>Dynamix</manufacturer>
+        <year>1995</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="spyfox">
+        <description>SPY Fox 1: Dry Cereal (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1997</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="spyfox2-win">
+        <description>SPY Fox 2: Some Assembly Required (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="spyozon-us">
+        <description>SPY Fox 3: Operation Ozone (CD Windows)</description>
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>2001</year>
+        <genre>Educational</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="chase-us">
+        <description>SPY Fox in Cheese Chase (CD Windows)</description>
+
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Action</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="mustard-us">
+        <description>SPY Fox in Hold the Mustard (CD Windows)</description>
+
+        <manufacturer>Humongous Entertainment</manufacturer>
+        <year>1999</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="titanic-win">
+        <description>Starship Titanic (CD Windows)</description>
+
+        <manufacturer>The Digital Village</manufacturer>
+        <year>1998</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="teenagent">
+        <description>TeenAgent (Floppy DOS)</description>
+        <manufacturer>Metropolis Software House</manufacturer>
+        <year>1994</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="tony-win-1">
+        <description>Tony Tough and the Night of the Roasted Moths (CD Windows)</description>
+        <manufacturer>Prograph</manufacturer>
+        <year>2002</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="toon">
+        <description>Toonstruck (CD Windows)</description>
+        <manufacturer>Burst Studios</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="torin">
+        <description>Torin&apos;s Passage (CD Windows)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1995</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="touche">
+        <description>Touche: Adventures of the Fifth Musketeer, The (CD DOS)</description>
+        <manufacturer>Clipper Software</manufacturer>
+        <year>1995</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="troll">
+        <description>Troll&apos;s Tale (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1983</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="urban-us">
+        <description>Urban Runner (CD Windows)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="voyeur">
+        <description>Voyeur (CD DOS)</description>
+        <manufacturer>Philips Entertainment</manufacturer>
+        <year>1994</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="waxworks">
+        <description>Waxworks (Floppy DOS)</description>
+        <manufacturer>Horrorsoft</manufacturer>
+        <year>1992</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="ween-us">
+        <description>Ween: The Prophecy (Floppy DOS)</description>
+        <manufacturer>Coktel Vision</manufacturer>
+        <year>1993</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="winnie">
+        <description>Winnie the Pooh in the Hundred Acre Wood (Floppy DOS)</description>
+        <manufacturer>Sierra On-Line</manufacturer>
+        <year>1986</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="zak-v2">
+        <description>Zak McKracken and the Alien Mindbenders (Floppy DOS v2)</description>
+        <cloneof>zak-fm</cloneof>
+        <crc></crc>
+        <manufacturer>Lucasfilm Games</manufacturer>
+        <year>1988</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="zak-fm">
+        <description>Zak McKracken and the Alien Mindbenders (FM Towns)</description>
+        <manufacturer>Lucasfilm Games</manufacturer>
+        <year>1988</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="zgi-win">
+        <description>Zork: Grand Inquisitor (DVD Windows)</description>
+        <manufacturer>Activision</manufacturer>
+        <year>1997</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+    <game name="znemesis-1">
+        <description>Zork Nemesis: The Forbidden Lands (DVD DOS)</description>
+        <manufacturer>Activision</manufacturer>
+        <year>1996</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
+	<game name="goldrush-amiga" index="" image="">
+        <description>Gold Rush! (Amiga)</description>
+        <manufacturer>Sierra</manufacturer>
+        <year>1988</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+	<game name="hopkins-win-1" index="" image="">
+        <description>Hopkins FBI (CD Windows)</description>
+        <manufacturer>Kult</manufacturer>
+        <year>1998</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="bladerunner-final-win" index="" image="">
+        <description>Blade Runner (CD Windows)</description>
+        <manufacturer>Virgin Interactive</manufacturer>
+        <genre>Adventure</genre>
+        <year>1997</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="hdb-win" index="" image="">
+        <description>Hyperspace Delivery Boy (Windows)</description>
+        <manufacturer>Monkeystone Games</manufacturer>
+        <genre>Puzzle</genre>
+        <year>2001</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="swordsofxeen" index="" image="">
+        <description>Might and Magic - Swords of Xeen (DOS)</description>
+        <manufacturer>New World Computing</manufacturer>
+        <genre>Role-Playing</genre>
+        <year>1995</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="worldofxeen-cd" index="" image="">
+        <description>Might and Magic - World of Xeen (CD DOS)</description>
+        <manufacturer>New World Computing</manufacturer>
+        <genre>Role-Playing</genre>
+        <year>1994</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="cloudsofxeen" index="" image="">
+        <description>Might and Magic IV - Clouds of Xeen (Floppy DOS)</description>
+        <manufacturer>New World Computing</manufacturer>
+        <genre>Role-Playing</genre>
+        <year>1992</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="darksideofxeen" index="" image="">
+        <description>Might and Magic V - Darkside of Xeen (Floppy DOS)</description>
+        <manufacturer>New World Computing</manufacturer>
+        <genre>Role-Playing</genre>
+        <year>1993</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="msn1" index="" image="">
+        <description>Mission Supernova Part 1 (Floppy DOS)</description>
+        <manufacturer>Thomas Dingel</manufacturer>
+        <genre>Adventure</genre>
+        <year>1994</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="msn2" index="" image="">
+        <description>Mission Supernova Part 2 (Floppy DOS)</description>
+        <manufacturer>Thomas Dingel</manufacturer>
+        <genre>Adventure</genre>
+        <year>1994</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="versailles" index="" image="">
+        <description>Versailles 1685 (CD Windows)</description>
+        <manufacturer>Cryo Interactive</manufacturer>
+        <genre>Adventure</genre>
+        <year>1996</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="duckman" index="" image="">
+        <description>Duckman: The Graphic Adventures of a Private Dick (CD Windows)</description>
+        <manufacturer>Playmates Interactive</manufacturer>
+        <genre>Adventure</genre>
+        <year>1997</year>
+        <rating>Other - NR (Not Rated)</rating>
+        <enabled>Yes</enabled>
+    </game>
+</menu>
