@@ -1,0 +1,90 @@
+<menu>
+  <header>
+    <listname>Gakken Handheld Electronics</listname>
+    <listversion>1.0</listversion>
+    <lastlistupdate>2021-05-30</lastlistupdate>
+	<creator>TonesMalone</creator>
+	<repository>CuratedGameLists</repository>
+  </header>
+  <game name="gckong" index="" image="">
+    <description>Crazy Kong</description>
+    <manufacturer>Gakken</manufacturer>
+    <crc>EC2733F</crc>
+    <genre />
+    <year>1982</year>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="gdigdug" index="" image="">
+    <description>Dig Dug</description>
+    <manufacturer>Gakken</manufacturer>
+    <crc>A0FC5F3C</crc>
+    <genre />
+    <year>1983</year>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="ghalien" index="" image="">
+    <description>Heiankyo Alien</description>
+    <manufacturer>Gakken</manufacturer>
+    <crc>60D130A5</crc>
+    <genre />
+    <year>1980</year>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="ginv" index="" image="">
+    <description>Invader</description>
+    <manufacturer>Gakken</manufacturer>
+    <crc>1A1807CD</crc>
+    <genre />
+    <year>1980</year>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="ginv1000" index="" image="">
+    <description>Galaxy Invader 1000</description>
+    <manufacturer>Gakken</manufacturer>
+    <crc>B61634E9</crc>
+    <genre />
+    <year>1981</year>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="ginv2000" index="" image="">
+    <description>Invader 2000</description>
+    <manufacturer>Gakken</manufacturer>
+    <crc>AC58C5CF</crc>
+    <genre />
+    <year>1982</year>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="gjackpot" index="" image="">
+    <description>Jackpot: Gin Rummy &amp; Black Jack</description>
+    <manufacturer>Gakken</manufacturer>
+    <crc>E80983DB</crc>
+    <genre />
+    <year>1980</year>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="gjungler" index="" image="">
+    <description>Jungler</description>
+    <manufacturer>Gakken</manufacturer>
+    <crc>2C701881</crc>
+    <genre />
+    <year>1982</year>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="gpoker" index="" image="">
+    <description>Poker</description>
+    <manufacturer>Gakken</manufacturer>
+    <crc>6E9BC5D3</crc>
+    <genre />
+    <year>1979</year>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+</menu>
