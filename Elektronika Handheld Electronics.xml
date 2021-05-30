@@ -1,0 +1,54 @@
+<menu>
+  <header>
+    <listname>Elektronika Handheld Electronics</listname>
+    <listversion>1.0</listversion>
+    <lastlistupdate>2021-05-30</lastlistupdate>
+	<creator>TonesMalone</creator>
+	<repository>CuratedGameLists</repository>
+  </header>
+  <game name="auslalom" index="" image="">
+    <description>Autoslalom</description>
+    <manufacturer>Elektronika</manufacturer>
+    <crc>D41073C2</crc>
+    <genre>Driving</genre>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="exospace" index="" image="">
+    <description>Explorers of Space</description>
+    <manufacturer>Elektronika</manufacturer>
+    <crc>75DCDEAB</crc>
+    <genre>Action</genre>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="merrycook" index="" image="">
+    <description>Merry Cook</description>
+    <manufacturer>Elektronika</manufacturer>
+    <crc>4AF1E0D3</crc>
+    <genre>Action</genre>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="nupogodi" index="" image="">
+    <description>Nu, pogod!</description>
+    <manufacturer>Elektronika</manufacturer>
+    <crc>FFE6B194</crc>
+    <genre>Action</genre>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="spacebridge" index="" image="">
+    <description>Space Bridge</description>
+    <manufacturer>Elektronika</manufacturer>
+    <crc>B0DB992D</crc>
+    <genre>Action</genre>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+</menu>
