@@ -1,0 +1,35 @@
+<menu>
+  <header>
+    <listname>Tronica Handheld Electronics</listname>
+    <listversion>1.0</listversion>
+    <lastlistupdate>10/4/2020</lastlistupdate>
+    <exporterversion>HyperTools 4.3.26</exporterversion>
+  </header>
+  <game name="tigarden" index="" image="">
+    <description>Thief in Garden</description>
+    <manufacturer>Tronica</manufacturer>
+    <crc>DE94F25F</crc>
+    <genre />
+    <year>1983</year>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="trshutvoy" index="" image="">
+    <description>Shuttle Voyage</description>
+    <manufacturer>Tronica</manufacturer>
+    <crc>C3AE43DA</crc>
+    <genre />
+    <year>1983</year>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="trsrescue" index="" image="">
+    <description>Space Rescue</description>
+    <manufacturer>Tronica</manufacturer>
+    <crc>D9D2398</crc>
+    <genre />
+    <year>1983</year>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+</menu>
