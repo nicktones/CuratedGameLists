@@ -2,27 +2,34 @@
 <menu>
 	<header>
 		<listname>ScummVM</listname>
-		<listversion>2.2 (rev1)</listversion>
-		<lastlistupdate>2021-04-11</lastlistupdate>
+		<listversion>2.2 (rev2)</listversion>
+		<lastlistupdate>2021-06-19</lastlistupdate>
 		<creator>TonesMalone</creator>
 		<repository>CuratedGameLists</repository>
 	</header>
 	<game name="dragons">
-        <description>Blazing Dragons (CD PlayStation)</description>
+        <description>Blazing Dragons (CD PS1)</description>
         <manufacturer>Crystal Dynamics</manufacturer>
         <year>1996</year>
         <genre>Adventure</genre>
         <rating>Other - NR (Not Rated)</rating>
     </game>
+	<game name="prince">
+        <description>Prince and the Coward, The (CD Windows) (Translated En)</description>
+        <manufacturer>Metropolis Software House</manufacturer>
+        <year>1998</year>
+        <genre>Adventure</genre>
+        <rating>Other - NR (Not Rated)</rating>
+    </game>
 	<game name="griffon">
-        <description>The Griffon Legend (CD Windows)</description>
+        <description>Griffon Legend, The (CD Windows)</description>
         <manufacturer>Syn9</manufacturer>
         <year>2005</year>
         <genre>Role-Playing</genre>
         <rating>Other - NR (Not Rated)</rating>
     </game>
 	<game name="os">
-        <description>Operation Stealth (Floppy DOS)</description>
+        <description>Operation Stealth (Floppy DOS EGA)</description>
         <manufacturer>Interplay, U.S. Gold</manufacturer>
         <year>1990</year>
         <genre>Adventure</genre>
@@ -43,7 +50,7 @@
         <rating>Other - NR (Not Rated)</rating>
     </game>
 	<game name="ultima8">
-        <description>Ultima VIII - Pagan (Floppy DOS)</description>
+        <description>Ultima VIII - Pagan (CD DOS)</description>
         <manufacturer>Electronic Arts</manufacturer>
         <year>1994</year>
         <genre>Role-Playing</genre>
@@ -1498,7 +1505,7 @@
         <rating>Other - NR (Not Rated)</rating>
     </game>
 	<game name="pqswat">
-        <description>Police Quest: SWAT (CD Windows)</description>
+        <description>Police Quest: SWAT (CD DOS)</description>
         <manufacturer>Sierra On-Line</manufacturer>
         <year>1995</year>
         <genre>Simulation</genre>
