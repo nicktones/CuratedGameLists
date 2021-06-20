@@ -2,8 +2,8 @@
 <menu>
 	<header>
 		<listname>ScummVM</listname>
-		<listversion>2.2 (rev2)</listversion>
-		<lastlistupdate>2021-06-19</lastlistupdate>
+		<listversion>2.2 (rev3)</listversion>
+		<lastlistupdate>2021-06-20</lastlistupdate>
 		<creator>TonesMalone</creator>
 		<repository>CuratedGameLists</repository>
 	</header>
@@ -481,8 +481,8 @@
         <genre>Adventure</genre>
         <rating>Other - NR (Not Rated)</rating>
     </game>
-    <game name="eob">
-        <description>Eye of the Beholder (CD DOS)</description>
+    <game name="eob-1">
+        <description>Eye of the Beholder (Floppy DOS)</description>
         <manufacturer>Westwood Studios</manufacturer>
         <year>1990</year>
         <genre>Role-Playing</genre>
