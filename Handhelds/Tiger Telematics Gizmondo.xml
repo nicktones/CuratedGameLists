@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu>
   <header>
-    <listname>Tiger Gizmondo</listname>
-    <listversion>1.0</listversion>
-    <lastlistupdate>2021-04-11</lastlistupdate>
+	<listname>Tiger Telematics Gizmondo</listname>
+	<listversion>1.0</listversion>
+	<lastlistupdate>2021-11-04</lastlistupdate>
 	<creator>TonesMalone</creator>
 	<repository>CuratedGameLists</repository>
   </header>
